@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER Write_register_m_inst
+	OPTION supported_peripherals = (Write_register_m_inst);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = Write_register_m_inst;
+END DRIVER

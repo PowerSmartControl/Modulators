@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Wed May 17 16:33:45 2017
+# Process ID: 3620
+# Current directory: C:/pruebas/Sepsa_full_bridge_comunicacion
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4980 C:\pruebas\Sepsa_full_bridge_comunicacion\IP_pspwm.xpr
+# Log file: C:/pruebas/Sepsa_full_bridge_comunicacion/vivado.log
+# Journal file: C:/pruebas/Sepsa_full_bridge_comunicacion\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/pruebas/Sepsa_full_bridge_comunicacion/IP_pspwm.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/pruebas/Sepsa_full_bridge_comunicacion/IP_pspwm.srcs/sources_1/bd/Pspwm/Pspwm.bd}

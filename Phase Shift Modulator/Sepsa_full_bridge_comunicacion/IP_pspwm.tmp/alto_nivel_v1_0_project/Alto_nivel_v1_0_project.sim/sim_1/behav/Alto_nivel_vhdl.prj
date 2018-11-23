@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../../IP_pspwm.srcs/sources_1/new/Clk_pwm.vhd"
+vhdl xil_defaultlib  "../../../../../IP_pspwm.srcs/sources_1/new/FlipFlop_D.vhd"
+vhdl xil_defaultlib  "../../../../../IP_pspwm.srcs/sources_1/new/Pwm_deadtime.vhd"
+vhdl xil_defaultlib  "../../../../../IP_pspwm.srcs/sources_1/new/Alto_nivel.vhd"
+
+# Do not sort compile order
+nosort

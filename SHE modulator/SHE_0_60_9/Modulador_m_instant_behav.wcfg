@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Modulador_m_instant_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Modulador_m_instant" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="22000000000001fs"></ZoomEndTime>
+      <Cursor1Time time="16489828000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="31" />
+   <wvobject fp_name="/Modulador_m_instant/Clk_inv" type="logic">
+      <obj_property name="ElementShortName">Clk_inv</obj_property>
+      <obj_property name="ObjectShortName">Clk_inv</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/ma2" type="array">
+      <obj_property name="ElementShortName">ma2[10:0]</obj_property>
+      <obj_property name="ObjectShortName">ma2[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/Fsw2" type="array">
+      <obj_property name="ElementShortName">Fsw2[9:0]</obj_property>
+      <obj_property name="ObjectShortName">Fsw2[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/ena" type="logic">
+      <obj_property name="ElementShortName">ena</obj_property>
+      <obj_property name="ObjectShortName">ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/refx" type="logic">
+      <obj_property name="ElementShortName">refx</obj_property>
+      <obj_property name="ObjectShortName">refx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/Pwm_A" type="logic">
+      <obj_property name="ElementShortName">Pwm_A</obj_property>
+      <obj_property name="ObjectShortName">Pwm_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/Pwm_B" type="logic">
+      <obj_property name="ElementShortName">Pwm_B</obj_property>
+      <obj_property name="ObjectShortName">Pwm_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/Pwm_C" type="logic">
+      <obj_property name="ElementShortName">Pwm_C</obj_property>
+      <obj_property name="ObjectShortName">Pwm_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/NPwm_A" type="logic">
+      <obj_property name="ElementShortName">NPwm_A</obj_property>
+      <obj_property name="ObjectShortName">NPwm_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/NPwm_B" type="logic">
+      <obj_property name="ElementShortName">NPwm_B</obj_property>
+      <obj_property name="ObjectShortName">NPwm_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/NPwm_C" type="logic">
+      <obj_property name="ElementShortName">NPwm_C</obj_property>
+      <obj_property name="ObjectShortName">NPwm_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/counter" type="other">
+      <obj_property name="ElementShortName">counter</obj_property>
+      <obj_property name="ObjectShortName">counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/alpha_a" type="array">
+      <obj_property name="ElementShortName">alpha_a[1:54,0:9]</obj_property>
+      <obj_property name="ObjectShortName">alpha_a[1:54,0:9]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/Fsw" type="other">
+      <obj_property name="ElementShortName">Fsw</obj_property>
+      <obj_property name="ObjectShortName">Fsw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/ma" type="other">
+      <obj_property name="ElementShortName">ma</obj_property>
+      <obj_property name="ObjectShortName">ma</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/b" type="logic">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/ciento_ochenta" type="other">
+      <obj_property name="ElementShortName">ciento_ochenta</obj_property>
+      <obj_property name="ObjectShortName">ciento_ochenta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/tres_cientos_sesenta" type="other">
+      <obj_property name="ElementShortName">tres_cientos_sesenta</obj_property>
+      <obj_property name="ObjectShortName">tres_cientos_sesenta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/ciento_veinte" type="other">
+      <obj_property name="ElementShortName">ciento_veinte</obj_property>
+      <obj_property name="ObjectShortName">ciento_veinte</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/noventa" type="other">
+      <obj_property name="ElementShortName">noventa</obj_property>
+      <obj_property name="ObjectShortName">noventa</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/dos_cientos_setenta" type="other">
+      <obj_property name="ElementShortName">dos_cientos_setenta</obj_property>
+      <obj_property name="ObjectShortName">dos_cientos_setenta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/c" type="logic">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/d" type="logic">
+      <obj_property name="ElementShortName">d</obj_property>
+      <obj_property name="ObjectShortName">d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/ref2" type="logic">
+      <obj_property name="ElementShortName">ref2</obj_property>
+      <obj_property name="ObjectShortName">ref2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/sal" type="other">
+      <obj_property name="ElementShortName">sal</obj_property>
+      <obj_property name="ObjectShortName">sal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/cuentas_max" type="other">
+      <obj_property name="ElementShortName">cuentas_max</obj_property>
+      <obj_property name="ObjectShortName">cuentas_max</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/m" type="other">
+      <obj_property name="ElementShortName">m</obj_property>
+      <obj_property name="ObjectShortName">m</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/count" type="other">
+      <obj_property name="ElementShortName">count</obj_property>
+      <obj_property name="ObjectShortName">count</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/count2" type="other">
+      <obj_property name="ElementShortName">count2</obj_property>
+      <obj_property name="ObjectShortName">count2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/N_cortes" type="other">
+      <obj_property name="ElementShortName">N_cortes</obj_property>
+      <obj_property name="ObjectShortName">N_cortes</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Modulador_m_instant/Rows" type="other">
+      <obj_property name="ElementShortName">Rows</obj_property>
+      <obj_property name="ObjectShortName">Rows</obj_property>
+   </wvobject>
+</wave_config>

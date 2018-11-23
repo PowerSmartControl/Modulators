@@ -1,0 +1,7 @@
+14:32:20 INFO  : Launching XSDB server: xsdb.bat -interactive C:\pruebas\Sepsa_full_bridge - comunicacion\temp_xsdb_launch_script.tcl
+14:32:22 ERROR : (XSDB Server)couldn't read file "C:\pruebas\Sepsa_full_bridge": permission denied
+
+14:48:17 INFO  : Launching XSDB server: xsdb.bat -interactive C:\pruebas\Sepsa_full_bridge_comunicacion\temp_xsdb_launch_script.tcl
+14:48:18 INFO  : XSDB server has started successfully.
+06:34:39 INFO  : Launching XSDB server: xsdb.bat -interactive C:\pruebas\Sepsa_full_bridge_comunicacion\temp_xsdb_launch_script.tcl
+06:34:41 INFO  : XSDB server has started successfully.

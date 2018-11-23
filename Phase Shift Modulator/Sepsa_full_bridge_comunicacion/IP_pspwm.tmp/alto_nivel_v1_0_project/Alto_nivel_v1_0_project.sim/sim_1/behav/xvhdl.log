@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "c:/pruebas/sepsa_full_bridge_comunicacion/IP_pspwm.srcs/sources_1/new/Clk_pwm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Clk_pwm
+INFO: [VRFC 10-163] Analyzing VHDL file "c:/pruebas/sepsa_full_bridge_comunicacion/IP_pspwm.srcs/sources_1/new/FlipFlop_D.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FlipFlop_D
+INFO: [VRFC 10-163] Analyzing VHDL file "c:/pruebas/sepsa_full_bridge_comunicacion/IP_pspwm.srcs/sources_1/new/Pwm_deadtime.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Pwm_deadtime
+INFO: [VRFC 10-163] Analyzing VHDL file "c:/pruebas/sepsa_full_bridge_comunicacion/IP_pspwm.srcs/sources_1/new/Alto_nivel.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Alto_nivel

@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Wed May 17 17:19:05 2017
+# Process ID: 4880
+# Current directory: C:/pruebas/Sepsa_full_bridge_comunicacion
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3500 C:\pruebas\Sepsa_full_bridge_comunicacion\IP_pspwm.xpr
+# Log file: C:/pruebas/Sepsa_full_bridge_comunicacion/vivado.log
+# Journal file: C:/pruebas/Sepsa_full_bridge_comunicacion\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/pruebas/Sepsa_full_bridge_comunicacion/IP_pspwm.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/pruebas/Sepsa_full_bridge_comunicacion'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/pruebas/repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:13 . Memory (MB): peak = 776.027 ; gain = 155.918
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May 17 17:19:44 2017...

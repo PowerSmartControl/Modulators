@@ -1,0 +1,18 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto aaa14a8c59e142d0b35fc3573fd1e5eb --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Alto_nivel_behav xil_defaultlib.Alto_nivel -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.Clk_pwm [clk_pwm_default]
+Compiling architecture behavioral of entity xil_defaultlib.FlipFlop_D [flipflop_d_default]
+Compiling architecture behavioral of entity xil_defaultlib.Pwm_deadtime [pwm_deadtime_default]
+Compiling architecture behavioral of entity xil_defaultlib.alto_nivel
+Built simulation snapshot Alto_nivel_behav
